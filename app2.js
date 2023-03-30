@@ -58,3 +58,4 @@ async function buscar(symbol) {
 buscar('APE');
 buscar('ETH');
 buscar('ADA');
+buscar('ALGO');
